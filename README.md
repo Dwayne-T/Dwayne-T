@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dwayne Taylor! 👋
 
-<!--
-**Dwayne-T/Dwayne-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Software Engineer focused on building a strong foundation in Applied Research, Deep Learning, and Computer Vision.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Current Focus & Goals
+
+* 🔭 I currently work as a Software Engineer, applying best practices in code architecture and systems design.
+* 🌱 I am intensely focused on self-learning and building a portfolio in **Deep Learning**, **Computer Vision**, and **Applied Science**.
+* 💻 Core Languages: Python, Rust, C/C++.
+* 🧠 Deep Learning Stack: Python (3.10+), Rust for High-Performance ML/CV Components, PyTorch (2.0+), CUDA, VS Code, and Jupyter.
+
+### 🗺️ Navigate My Work
+
+| Folder | What You'll Find |
+| :--- | :--- |
+| **[🔬 Portfolio Projects](./projects)** | My key Computer Vision and Deep Learning implementations and experiments. |
+| **[📚 Learning Notebooks](./learning)** | Documented exercises, tutorials, and notes created using Jupyter notebooks. |
+| **[✍️ Technical Blog & Research Notes](./blog)** | Written technical insights and structured notes preparing for academic/research papers. |
+
+---
+
+### 📫 Get In Touch
+
+[Connect on LinkedIn](LINK_TO_YOUR_LINKEDIN) | [Email Me](mailto:dwaynetaylor763@gmail.com)
